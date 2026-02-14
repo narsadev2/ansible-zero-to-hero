@@ -17,6 +17,8 @@ The main list of actions that the role performs.
 ### Handlers
 Tasks that are triggered by changes in other tasks, typically used for actions like restarting services.
 
+https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_handlers.html
+
 ### Files
 Static files that need to be transferred to managed hosts.
 
