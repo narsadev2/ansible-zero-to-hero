@@ -107,3 +107,7 @@ my_collection/
   community.general.my_module:
     option: value
 ```
+#### Links #######
+
+https://docs.ansible.com/projects/ansible/latest/collections/ansible/builtin/index.html
+https://docs.ansible.com/projects/ansible/latest/collections/amazon/aws/index.html
