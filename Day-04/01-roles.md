@@ -86,3 +86,7 @@ of the infrastructure independently.
 ### Consistency
 Using roles ensures that the same setup and configuration procedures are applied uniformly across
 multiple environments, reducing the risk of configuration drift.
+
+### Ansible Galaxy tool link below, where it can used for sample roles creation for kubernetes etc...
+
+https://galaxy.ansible.com/ui/standalone/roles/?page=1&page_size=10&sort=-created&keywords=kubernetes
